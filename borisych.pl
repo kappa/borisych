@@ -2,7 +2,6 @@
 use uni::perl;
 
 use Linux::Input;
-use Data::Dump;
 
 my $rfid_reader_device = 'by-id/usb-EHUOYAN.cn_RfidLoginer-event-kbd';
 
