@@ -1,4 +1,4 @@
-Borisych daemon listens to RFID reader and issues commands when
+Borisych daemon listens to an RFID reader and issues commands when
 presented with a known RFID token.
 
 I use it to choose music with expired Moscow Metro cards.
